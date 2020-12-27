@@ -1,8 +1,7 @@
-### Hi there, I'm Rich - aka Babanik 👋
+### Hi there, I'm Rich 
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn JavaScript, Java and React
-- ⚡ Fun fact: I love football and am a Quarterback
 
 
 ### Connect with me:
