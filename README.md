@@ -1,4 +1,5 @@
-### Hi i am Richard, an Application Consultant based near Frankfurt with over 7 years of experience in the software industry. Interested in Product Management, Software Engineering, Software Architecture, and Agile Methods working a lot with Salesforce but also looking for new Opportunities. I help people and companies to start and be successful with Salesforce by optimizing their development processes and methodology or plan and develop their Products.
+### Hi i am Richard, 
+## an Application Consultant based near Frankfurt with over 7 years of experience in the software industry. Interested in Product Management, Software Engineering, Software Architecture, and Agile Methods working a lot with Salesforce but also looking for new Opportunities. I help people and companies to start and be successful with Salesforce by optimizing their development processes and methodology or plan and develop their Products.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn Apex,JavaScript,MongoDB, NodeJS and React
